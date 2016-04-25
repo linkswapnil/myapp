@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "just a test",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "swapnil",
+  "license": "ISC",
+  "devDependencies": {
+    "googleapis": "5.0.0",
+    "google-auth-library": ""
+  },
+  "dependencies": {
+    "google-auth-library": "^0.9.7",
+    "googleapis": "^5.0.0"
+  }
+}
