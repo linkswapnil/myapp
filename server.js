@@ -26,7 +26,7 @@ http.createServer(function (request, response) {
     response.writeHead(200, {'Content-Type': 'text/plain'});
 
     // Send the response body as "Hello World"
-    response.end('Hello World Rohit');
+    response.end('Hello World KK');
 }).listen(server_port,server_ip_address);
 
 // Console will print the message
